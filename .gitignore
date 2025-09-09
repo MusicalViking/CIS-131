@@ -1,0 +1,14 @@
+# Microsoft Office
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Node/JS stuff if you ever touch web projects
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python caches if you end up doing anything in Python
+__pycache__/
+*.py[cod]
